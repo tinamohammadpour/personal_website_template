@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Test Post
+title: click here
 ---
 
 ## These are my favorite movies to watch
