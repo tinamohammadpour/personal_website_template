@@ -12,7 +12,7 @@ comments: false
 |    |    | **Experience**                                                             |
 |----|----|-------------------------------------------------------------------------------|
 |2022| now| a student in IUST, Tehran, Iran |
-|2020|2022|   full stress years(lets just forget these years)              |   
+|2020|2022|   full stress years(lets just forget these years) |   
 -------------------------------------------------------------------------------|
 |2020|      | high school years bigan |
 |----|------|-------------------------------------------------------------------------------|
