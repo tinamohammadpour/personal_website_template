@@ -3,7 +3,7 @@ layout: posts
 title: Test Post
 ---
 
-## These are my favorite movies to see
+## These are my favorite movies to watch
 Their names are:
 - Interstellar
 - the pianist
