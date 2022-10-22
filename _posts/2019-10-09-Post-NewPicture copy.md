@@ -3,21 +3,21 @@ layout: posts
 title: Test Post
 ---
 
-## This is my team at Microsoft
-People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
+## These are my favorite movies to see
+Their names are:
+- Interstellar
+- the pianist
+- little women
+- the fault in our stars
 
-[my favorite website](http://www.google.com)
+[my favorite movie website](https://www.imdb.com/)
 
 kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
 kfajdskfajsdf sakd fjksad jfksdj fksdj f
 
 
 
-![alt text](../assets/images/grouppic.jpg "Team Picture")
+![alt text](../assets/images/netflix.jpg )
 
 ---
 **Test**: This is atest
