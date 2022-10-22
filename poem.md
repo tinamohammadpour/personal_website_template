@@ -1,8 +1,8 @@
 ---
 layout: single
 author_profile: true
-permalink: /poem/
-title: poem
+permalink: /courses/
+title: courses
 tags: [Rumi]
 modified: 9-14-2019
 comments: false
