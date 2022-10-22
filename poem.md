@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 permalink: /courses/
-title: courses
+title: poem
 tags: [Rumi]
 modified: 9-14-2019
 comments: false
