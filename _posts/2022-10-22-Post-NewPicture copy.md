@@ -12,8 +12,7 @@ Their names are:
 
 [my favorite movie website](https://www.imdb.com/)
 
-kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
-kfajdskfajsdf sakd fjksad jfksdj fksdj f
+east and west,movie is the best:)
 
 
 
